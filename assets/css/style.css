@@ -1,0 +1,19 @@
+header{
+    background-color: #059FDD;
+    background-image: url(../img/2docs.png);
+    background-repeat: no-repeat;
+    padding-top: 20%;
+    z-index: 2;
+}
+nav a{
+    color:white;
+}
+.navLogo{
+    height: 70px;
+    width: 110px;
+    margin-bottom: 100%;
+}
+h1{
+    text-align: center;
+    color:white;
+}
